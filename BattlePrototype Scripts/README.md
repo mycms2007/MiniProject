@@ -94,8 +94,8 @@ Unity 6에서 New Input System이 기본 활성화되어 있어 `Input.GetKeyDow
 
 ## 시연 영상
 
-<!-- 영상 링크 추가 예정 -->
 
+https://youtu.be/eKn2vdcSv4g
 ---
 
 ## 다음 단계
