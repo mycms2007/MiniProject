@@ -145,7 +145,7 @@ BattlePrototype에서 겪었던 문제와 동일하게,
 
 ## 시연 영상
 
-[![BattleSystem 시연]
+[BattleSystem 시연]
 ([https://youtu.be/LhRqdZj9CHc](https://youtu.be/LhRqdZj9CHc))
 
 ---
