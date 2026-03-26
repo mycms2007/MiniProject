@@ -19,6 +19,7 @@ CSV로 몬스터 데이터를 관리하고, 코루틴 재귀로 턴제 전투를
 ### 02. BattleSystem
 캐릭터 선택 시스템과 상태 머신 기반 턴제 전투를 구현한 프로토타입.
 C# 핵심 개념(생성자, out, ref, enum+switch, switch 표현식, when)을 실전 구조에 직접 녹여냈습니다.
+
 → [스크립트 보기](./BattleSystem%20Scripts)
 
 ---
